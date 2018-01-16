@@ -3,36 +3,36 @@
 		<loc>http://www.zippyops.com/index.html</loc>
 	</url>
 	<url>
-		<loc>http://www.zippyops.com/page1.html</loc>
-	</url>
-	<url>
-		<loc>http://www.zippyops.com/page2.html</loc>
-	</url>
-	<url>
-		<loc>http://www.zippyops.com/page3.html</loc>
-	</url>
-	<url>
-		<loc>http://www.zippyops.com/page4.html</loc>
-	</url>
-	<url>
-		<loc>http://www.zippyops.com/page5.html</loc>
-	</url>
-	<url>
-		<loc>http://www.zippyops.com/page6.html</loc>
-	</url>
-	<url>
-		<loc>http://www.zippyops.com/page7.html</loc>
-	</url>
-	<url>
-		<loc>http://www.zippyops.com/page8.html</loc>
-	</url>
-	<url>
-		<loc>http://www.zippyops.com/page9.html</loc>
-	</url>
-	<url>
 		<loc>http://www.zippyops.com/page10.html</loc>
 	</url>
 	<url>
-		<loc>http://www.zippyops.com/page11.html</loc>
+		<loc>http://www.zippyops.com/contactus.html</loc>
+	</url>
+	<url>
+		<loc>http://www.zippyops.com/commingsoon.html</loc>
+	</url>
+	<url>
+		<loc>http://www.zippyops.com/trainings.html</loc>
+	</url>
+	<url>
+		<loc>http://www.zippyops.com/devops.html</loc>
+	</url>
+	<url>
+		<loc>http://www.zippyops.com/kubernetes.html</loc>
+	</url>
+	<url>
+		<loc>http://www.zippyops.com/docker.html</loc>
+	</url>
+	<url>
+		<loc>http://www.zippyops.com/chef.html</loc>
+	</url>
+	<url>
+		<loc>http://www.zippyops.com/puppet.html</loc>
+	</url>
+	<url>
+		<loc>http://www.zippyops.com/jenkins.html</loc>
+	</url>
+	<url>
+		<loc>http://www.zippyops.com/aws.html</loc>
 	</url>
 </urlset>
